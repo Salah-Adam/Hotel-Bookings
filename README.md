@@ -24,8 +24,8 @@ SQL Based Project
     cancellation likelihood.
 
 ## Query 
-here you can find the query I wrote to extract insigts I mentioned below
-<a href="https://github.com/Salah-Adam/Hotel-Bookings/blob/main/findings.sql">Query for Analysis</a>
+- here you can find the query I wrote to extract insigts I mentioned below.
+- <a href="https://github.com/Salah-Adam/Hotel-Bookings/blob/main/findings.sql">Query for Analysis</a>
 
 
 ## Key Insights:
