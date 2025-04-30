@@ -1,1 +1,0 @@
-SELECT * FROM hotel_bookings_p.hotel_bookings_raw;
