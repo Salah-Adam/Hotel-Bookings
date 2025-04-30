@@ -7,6 +7,10 @@ SQL Based Project
 
 ## Dataset Used
    - <a href="https://github.com/Salah-Adam/Hotel-Bookings/blob/main/hotel%20bookings%20raw%20data.xlsx">Dataset</a>
+
+## fact and dim tables creation and insertions
+- <a href="https://github.com/Salah-Adam/Hotel-Bookings/blob/main/fact%26dim%20tables.sql">Fact and Dim tables </a>
+
 ## Tools & Skills:
 
   - This analysis was conducted using SQL to query and analyze our extensive hotel booking database. The ability to extract, manipulate, and interpret data is essential for driving 
