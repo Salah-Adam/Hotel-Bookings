@@ -20,9 +20,15 @@ SQL Based Project
 ## The analysis focused on two key areas:
 
   - Monthly Cancellation Rates by Hotel Type: Identifying specific periods or hotel types with higher cancellation rates.
-  - Impact of Lead Time and Deposit Type on Cancellations: Examining the relationship between booking lead time, deposit policies, and cancellation likelihood.
+  - Impact of Lead Time and Deposit Type on Cancellations: Examining the relationship between booking lead time, deposit policies, and 
+    cancellation likelihood.
 
-# Key Insights:
+## Query 
+here you can find the query I wrote to extract insigts I mentioned below
+<a href="https://github.com/Salah-Adam/Hotel-Bookings/blob/main/findings.sql">Query for Analysis</a>
+
+
+## Key Insights:
   
 - Monthly Cancellation Trends: My analysis revealed a higher cancellation rates for City Hotels compared to the other hotel, Resort hotels. Also, City Hotels has lower cancellation rete 
   in Summer and Resort hotels have the lowest cancellation rates in months August and November. This suggests potential seasonal factors or specific events influencing booking decisions.
