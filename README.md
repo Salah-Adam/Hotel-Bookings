@@ -6,7 +6,7 @@ SQL Based Project
   - As a data-driven professional in the hospitality industry, understanding booking cancellations is crucial for optimizing revenue and operational efficiency. Recently, I dug into a        hotel booking data to uncover key trends and provide actionable insights. Here's what I found:
 
 ## Dataset Used
-   - <a href="">Dataset</a>
+   - <a href="https://github.com/Salah-Adam/Hotel-Bookings/blob/main/hotel%20bookings%20raw%20data.xlsx">Dataset</a>
 ## Tools & Skills:
 
   - This analysis was conducted using SQL to query and analyze our extensive hotel booking database. The ability to extract, manipulate, and interpret data is essential for driving 
@@ -26,6 +26,9 @@ SQL Based Project
 -  Lead Time and Deposit Impact: I found that bookings with longer lead times tend to have higher cancellation rates across all deposit types. 
   For bookings with 'No deposit' policy, the average lead time for canceled bookings  is significantly higher than for non-canceled bookings which indicates when guests don't have a 
   financial commitment upfront, they are more likely to cancel bookings.
+
+## Dashboard
+- <a href="https://github.com/Salah-Adam/Hotel-Bookings/blob/main/dashboard.png">View Dashboard</a>
 
 ## Recommendations:
 
